@@ -1,9 +1,9 @@
-
 export const SITE = {
   name: 'N-tech',
-  tagline: 'A JavaScript community',
+  tagline: 'A community for developers',
   description:
-    'A worldwide community for JavaScript developers. Learn, share what you build, and find people to build with.',
+    'A worldwide community for developers. Share what you build, find teammates for your next project, and level up your skills together.',
+  /** Public contact address shown on the legal pages. Leave empty to hide the mailto link. */
   contactEmail: '',
 }
 
